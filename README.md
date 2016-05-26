@@ -1,0 +1,2 @@
+# gecmis
+Geçmişi Göster Uygulaması
